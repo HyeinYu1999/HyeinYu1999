@@ -1,12 +1,11 @@
 ### Hi, I'm Hyein!!
 
-🔭 Passionate engineer who likes to build things</br>
+🔭 Passionate engineer who is obssessed with building awesome tech</br>
 🌱 I’m currently learning cloud architecture</br>
-👯 I’m looking to collaborate on simple but smart and cool app</br> 
 💬 Ask me about how to maximise the utility of custom GPTs</br>
-📫 email: hyein.dana.yu@gmail.com</br>
+📫 <b>Email</b>: hyein.dana.yu@gmail.com</br>
 ⚡ Fun fact
---> I have 100+ product/app ideas</br> 
+--> I started coding when I was 12 and started working on Statups when I was 16!
 
 ### Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
