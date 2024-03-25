@@ -1,6 +1,6 @@
 ### Hi, I'm Hyein!!
 
-🔭 Passionate engineer who is obssessed with building awesome tech</br>
+🔭 Passionate engineer who is obssessed with building awesome tech and learning new things</br>
 🌱 I’m currently learning cloud architecture</br>
 💬 Ask me about how to maximise the utility of custom GPTs</br>
 📫 <b>Email</b>: hyein.dana.yu@gmail.com</br>
